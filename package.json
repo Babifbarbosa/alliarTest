@@ -1,0 +1,22 @@
+{
+  "name": "alliartest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Babifbarbosa/alliarTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Babifbarbosa/alliarTest/issues"
+  },
+  "homepage": "https://github.com/Babifbarbosa/alliarTest#readme",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
+}
